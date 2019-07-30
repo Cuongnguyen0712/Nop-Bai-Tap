@@ -1,4 +1,4 @@
-//Nh?p 1 s?, ki?m tra xem c� ph?i s? ho�n h?o
+//Nhập 1 số, kiểm tra xem có phải số hoàn hảo
 #include<stdio.h>
 
 int main()
