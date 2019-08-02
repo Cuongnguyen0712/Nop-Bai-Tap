@@ -5,16 +5,28 @@ int main(){
     int n;
     printf("Nhap So N: \n");
     scanf("%d",&n);
-    for (int x; x<n; x++)
+    for (int i; i<n; i++)
     {
-        int m = x, count = 0;
-        while (m != 0) {
-            count = count * 10 + m % 10;
-            m /= 10;
+        //cách 1:
+        int tg = i;
+        int kq = 0;
+        for (int j = 0; tg!=0 ; tg/=10)
+        {
+            kq=kq*10+tg%10;
         }
-        if (count == x) {
-            printf("[%d] La So Thuan Nghich < [%d] \n", x,n);
+        if (kq==i)
+        {
+            printf("[%d] La So Thuan Nghich < [%d]\n",i,n);
         }
+        //Cách 2:
+//        int m = i, count = 0;
+//        while (m != 0) {
+//            count = count * 10 + m % 10;
+//            m /= 10;
+//        }
+//        if (count == i) {
+//            printf("[%d] La So Thuan Nghich < [%d] \n", i,n);
+//        }
     }
     return 0;
 }
