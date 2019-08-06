@@ -13,4 +13,27 @@ Assignment 5:
   + Bài 1: Tìm số thứ n trong dãy Fibonaci
   + Bài 2: Tìm các số thuận nghịch nhỏ hơn n
   + Lab: Nhập 1 số n, in ra các số nguyên tố <= n
+Assignment 6:
+  + Bài 1: Nhập vào 1 mảng 10 số nguyên. Tìm giá trị trung bình của mảng
+  + Bài 2: Nhập 1 mảng n phần tử với điều kiện không được nhập trùng số
+Assignment 6 (Ôn Tập): 
+  + Bài 1: Nhập vào 2 số, in ra số lớn hơn
+  + Bài 2: Nhập vào 1 số, kiểm tra nó âm hay dương
+  + Bài 3: Nhập vào 2 giá trị x,y. Đổi giá trị 2 biến với nhau
+  + Bài 4: Nhập từ bàn phím đến khi nhập trúng số chẵn thì dừng
+  + Bài 5: Vẽ hình chữ nhật rỗng chiều dài n và chiều rộng m. Ví dụ: m = 4, n = 5
+            * * * * *
+            *       *
+            *       *
+            * * * * *
+  + Bài 6: Viết chương trình tính S = 1 + 1/2 + 1/3 + … + 1/N
+  + Bài 7: Viết chương trình tính n! biết n! = 1.2.3.4…n
+  + Bài 8: Tính tổng 100 số lẻ > 0 đầu tiên
+  + Bài 9: Nhập vào 1 mảng n số và in ra mảng số đó
+  + Bài 10: Nhập vào mảng n số và in ra giá trị trung bình cộng
+  + Bài 11: Nhập vào mảng n số và in ra số lớn nhất, số bé nhất
+Assignment 7:
+  + Bài 1: Nhập ma trận 44, tính trung bình cộng đường chéo
+  + Bài 2: Nhập vào 2 ma trận 4x3, Cộng trừ 2 ma trận và in ra kết quả.
+  + Bài 3: Nhập và ma trận 4x3, tìm ma trận chuyển vị của ma trận đó.
 
