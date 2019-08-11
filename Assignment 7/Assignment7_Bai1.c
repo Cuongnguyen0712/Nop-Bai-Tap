@@ -32,10 +32,10 @@ int main () {
             }
         }
     }
-    int TB;
-    TB=Tong/Dem;
+    float TB;
+    TB=(float)Tong/Dem;
     printf("Tong Duong Cheo= %d \n",Tong);
-    printf("Trung Binh= %d",TB);
+    printf("Trung Binh= %f",TB);
     
 
     return 0;

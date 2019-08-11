@@ -1,6 +1,5 @@
 #include <stdio.h>
 int main () {
-    //Nhập ________>
     //Nhập| Ma Trận A
     int a[4][3];
     for (int i=0;i<4;i++)
@@ -32,7 +31,7 @@ int main () {
             hieu[i][j] = a[i][j] - b [i][j];
         }
     }
-    //Xuất_________<
+
     //Xuất| Ma Trận A
     printf("[A]:\n");
     for (int i=0;i<4;i++)
